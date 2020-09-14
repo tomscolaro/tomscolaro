@@ -7,7 +7,7 @@
 ---
 
 - [Lyft Motion Prediction](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
-- [Deep Learning Recommenders Reasearch w/ MovieLens](https://grouplens.org/datasets/movielens/)
+- [Deep Learning Recommenders Research w/ MovieLens](https://grouplens.org/datasets/movielens/)
 
 ---
 
