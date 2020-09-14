@@ -42,7 +42,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 
 - [Bayesian Model for predicting NBA performance](https://tomscolaro.com/bayes)
 - [Access D3.js from your Jupyter Notebook](https://tomscolaro.com/d3jsinjupyter)
 - [Deep Latent Recommenders in Pytorch](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
