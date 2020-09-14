@@ -1,10 +1,8 @@
-### Howdy, I'm Tom [website]
+### Howdy, I'm Tom a Data Scienctist, Developer, & ML guy [website]
 
 [![Website](https://img.shields.io/website?label=tomscolaro.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tomscolaro.com)
 
-## Data Scienctist, Developer, ML Guy
-
-## What I'm working on right now.
+### What I'm working on right now.
  
 
 ---
