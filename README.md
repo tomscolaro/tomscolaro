@@ -1,9 +1,9 @@
 ### Howdy, I'm Tom a Data Scienctist, Developer, & ML guy [website]
 
-[![Website](https://img.shields.io/website?label=tomscolaro.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://tomscolaro.com)
+[![Website](https://img.shields.io/website?label=tomscolaro.com&style=for-the-badge&url=https%3A%2F%2Ftomscolaro.com)](https://tomscolaro.com)
 
 ### What I'm working on right now.
- 
+  
 
 ---
 
@@ -16,7 +16,7 @@
 - [Association Rules Explained](https://tomscolaro.com/arules)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://tomscolaro.com/posts)
+➡️ [more blog posts...](https://tomscolaro.com/)
 
 
 ### Connect with me:
