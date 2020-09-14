@@ -5,8 +5,10 @@
 ### What I'm working on right now.
   
 ---
+<!-- Project-LIST:START -->
 -[Lyft Motion Prediction](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
 -[Deep Learning Recommenders Reasearch w/ MovieLens](https://grouplens.org/datasets/movielens/)
+<!-- Project-LIST:END -->
 ---
 
 ### 📕 Latest Blog Posts
