@@ -5,10 +5,10 @@
 ### What I'm working on right now.
   
 ---
-<!-- Project-LIST:START -->
--[Lyft Motion Prediction](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
--[Deep Learning Recommenders Reasearch w/ MovieLens](https://grouplens.org/datasets/movielens/)
-<!-- Project-LIST:END -->
+
+- [Lyft Motion Prediction](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
+- [Deep Learning Recommenders Reasearch w/ MovieLens](https://grouplens.org/datasets/movielens/)
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -20,7 +20,7 @@
 - [Association Rules Explained](https://tomscolaro.com/arules)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://tomscolaro.com/)
+- [more blog posts...](https://tomscolaro.com/)
 
 
 ### Connect with me:
