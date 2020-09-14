@@ -49,7 +49,7 @@
 - [Association Rules Explained](https://tomscolaro.com/arules)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://tomscolaro.com)
 
 ---
 
