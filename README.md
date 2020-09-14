@@ -2,9 +2,11 @@
 
 [![Website](https://img.shields.io/website?label=tomscolaro.com&style=for-the-badge&url=https%3A%2F%2Ftomscolaro.com)](https://tomscolaro.com)
 
-### What I'm working on right now.
   
 ---
+
+### What I'm working on right now.
+
 
 - [Lyft Motion Prediction](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
 - [Deep Learning Recommenders Research w/ MovieLens](https://grouplens.org/datasets/movielens/)
