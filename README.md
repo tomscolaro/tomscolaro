@@ -1,4 +1,4 @@
-### Howdy, I'm Tom a Data Scientist, Developer, & ML guy [T][website]
+###  Data Scientist, Developer, & ML guy
 
 [![Website](https://img.shields.io/website?label=tomscolaro.com&style=for-the-badge&url=https%3A%2F%2Ftomscolaro.com)](https://tomscolaro.com)
 
