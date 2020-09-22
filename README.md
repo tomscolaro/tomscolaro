@@ -1,4 +1,4 @@
-###  Data Scientist & Developer
+###  Analytics & ML Developer
 
 [![Website](https://img.shields.io/website?label=tomscolaro.com&style=for-the-badge&url=https%3A%2F%2Ftomscolaro.com)](https://tomscolaro.com)
 
