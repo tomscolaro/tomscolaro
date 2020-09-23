@@ -14,7 +14,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Bayesian Model for predicting NBA performance](https://tomscolaro.com/bayes)
+- [Bayesian Modeling for predicting NBA performance](https://tomscolaro.com/bayes)
 - [Access D3.js from your Jupyter Notebook](https://tomscolaro.com/d3jsinjupyter)
 - [Deep Latent Recommenders in Pytorch](https://tomscolaro.com)
 - [Association Rules Explained](https://tomscolaro.com/articles/python/analysis/recommenders/2020/09/16/Association-Rules.html)
