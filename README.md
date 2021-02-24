@@ -6,7 +6,7 @@
 
 ### What I'm working on right now.
 
-- [Lyft Motion Prediction](https://www.kaggle.com/c/lyft-motion-prediction-autonomous-vehicles)
+- [Reinforcement Learning Problems like this one:] (https://github.com/tomscolaro/Non-stationary-K-armed-bandits)
 - [Deep Learning Recommenders Research w/ MovieLens](https://grouplens.org/datasets/movielens/)
 
 ---
