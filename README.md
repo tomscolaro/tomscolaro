@@ -6,7 +6,7 @@
 
 ### What I'm working on right now.
 
-- [Reinforcement Learning Problems like this one:] (https://github.com/tomscolaro/Non-stationary-K-armed-bandits)
+- [Reinforcement Learing problems like this one](https://github.com/tomscolaro/Non-stationary-K-armed-bandits)
 - [Deep Learning Recommenders Research w/ MovieLens](https://grouplens.org/datasets/movielens/)
 
 ---
