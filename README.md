@@ -1,4 +1,4 @@
-###  Analytics & ML Developer
+###  ML Engineer
 
 [![Website](https://img.shields.io/website?label=tomscolaro.com&style=for-the-badge&url=https%3A%2F%2Ftomscolaro.com)](https://tomscolaro.com)
 
@@ -11,7 +11,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Association Rules Explained](https://tomscolaro.com/articles/python/analysis/recommenders/2020/09/16/Association-Rules.html)
@@ -35,7 +35,6 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
